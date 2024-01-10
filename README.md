@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/oxlac/scribblr">
-    <img src="assets/logo.jpeg" alt="Logo" width="200" height="200">
+    <img src="public/assets/logo.jpeg" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Scribblr</h3>
@@ -54,7 +54,6 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -201,5 +200,5 @@ Project Link: [https://github.com/oxlac/sribblr](https://github.com/oxlac/sribbl
 [license-url]: https://github.com/oxlac/Scribblr/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
-[product-screenshot]: assets/main-image.png
+[product-screenshot]: public/assets/main-image.png
 
