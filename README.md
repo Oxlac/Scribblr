@@ -189,16 +189,16 @@ Project Link: [https://github.com/oxlac/sribblr](https://github.com/oxlac/sribbl
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/oxlac/sribblr.svg?style=for-the-badge
-[contributors-url]: https://github.com/oxlac/sribblr/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/oxlac/sribblr.svg?style=for-the-badge
-[forks-url]: https://github.com/oxlac/sribblr/network/members
-[stars-shield]: https://img.shields.io/github/stars/oxlac/sribblr.svg?style=for-the-badge
-[stars-url]: https://github.com/oxlac/sribblr/stargazers
-[issues-shield]: https://img.shields.io/github/issues/oxlac/sribblr.svg?style=for-the-badge
-[issues-url]: https://github.com/oxlac/sribblr/issues
-[license-shield]: https://img.shields.io/github/license/oxlac/sribblr.svg?style=for-the-badge
-[license-url]: https://github.com/oxlac/sribblr/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/oxlac/Scribblr.svg?style=for-the-badge
+[contributors-url]: https://github.com/oxlac/Scribblr/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/oxlac/Scribblr.svg?style=for-the-badge
+[forks-url]: https://github.com/oxlac/Scribblr/network/members
+[stars-shield]: https://img.shields.io/github/stars/oxlac/Scribblr.svg?style=for-the-badge
+[stars-url]: https://github.com/oxlac/Scribblr/stargazers
+[issues-shield]: https://img.shields.io/github/issues/oxlac/Scribblr.svg?style=for-the-badge
+[issues-url]: https://github.com/oxlac/Scribblr/issues
+[license-shield]: https://img.shields.io/github/license/oxlac/Scribblr.svg?style=for-the-badge
+[license-url]: https://github.com/oxlac/Scribblr/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 
 [product-screenshot]: assets/main-image.png
