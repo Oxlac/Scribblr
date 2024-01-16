@@ -20,7 +20,7 @@
   <p align="center">
     A Javascript Deep Learning Project of an online game that uses an AI to guess what players are drawing.
     <br />
-    <a href="https://mr-dm.oxlac.com"><strong>Visit the Website »</strong></a>
+    <a href="https://scribblr.oxlac.com/"><strong>Visit the Website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/oxlac/sribblr/issues">Report Bug</a>
